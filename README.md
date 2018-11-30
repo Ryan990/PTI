@@ -1,2 +1,0 @@
-# PTI
-Tugas PTI
